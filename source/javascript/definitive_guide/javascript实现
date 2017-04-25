@@ -1,1 +1,8 @@
-
+JavaScript实现
+  1.ECMAScript.
+  2.DOM.
+  3.BOM.
+  
+1.1 ECMAScript
+  web浏览器只是宿主环境之一，其它如Node.
+  ie9是开始支持ECMAScipt第5版.
