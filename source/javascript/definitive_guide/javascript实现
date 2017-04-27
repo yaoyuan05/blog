@@ -36,3 +36,13 @@ splice()改变原数组
 
 Date
 valueOf()方法和getTime()，返回日期毫秒灵敏可用于比较日期(大于或小于).
+
+
+var numberObject = new Number(10);
+var numberValue = 10;
+两种初始化的数值的方法,如果用于Boolean判断可能会有误,因为numberObject是"object"类,numberValue是"number".
+
+Math.max.apply(Math,values)可用于获得数组的最大值.
+
+
+
